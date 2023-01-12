@@ -1,0 +1,12 @@
+{
+  "name": "algo-setup-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rilmubarak/algo-setup-sdk.git",
+  "author": "rilmubarak <mubaraqhere@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "algosdk": "^2.0.0",
+    "dotenv": "^16.0.3"
+  }
+}
